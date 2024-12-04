@@ -17,9 +17,9 @@ token = cred.token
 
 fabric_headers = {"Authorization": "Bearer " + token.strip()}
 
-key_vault_name = 'kv_to-be-replaced'
-workspaceId = "workspaceId_to-be-replaced"
-solutionname = "solutionName_to-be-replaced"
+key_vault_name = 'clien-kv-th4eoykok6gvm'
+workspaceId = "6c2c16bb-9e3e-4ea7-8445-bff8700ea63b"
+solutionname = "clien"
 create_workspace = False
 
 pipeline_notebook_name = 'pipeline_notebook'
