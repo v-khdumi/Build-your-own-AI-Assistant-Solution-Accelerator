@@ -840,7 +840,7 @@
               "apiVersion": "2023-05-01",
               "name": "[format('{0}/{1}', parameters('accounts_byc_openai_name'), 'gpt-4o')]",
               "sku": {
-                "name": "Standard",
+                "name": "GlobalStandard",
                 "capacity": 10
               },
               "properties": {
