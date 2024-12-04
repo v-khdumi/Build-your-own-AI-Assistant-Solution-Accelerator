@@ -204,7 +204,7 @@ const mockStateWithChatHistory = {
 
 const response = {
   id: 'cb010365-18d7-41a8-aef6-8c68f9418bb7',
-  model: 'gpt-4',
+  model: 'gpt-4o',
   created: 1728388001,
   object: 'extensions.chat.completion.chunk',
   choices: [
@@ -227,7 +227,7 @@ const response = {
 
 const response2 = {
   id: 'cb010365-18d7-41a8-aef6-8c68f9418bb7',
-  model: 'gpt-4',
+  model: 'gpt-4o',
   created: 1728388001,
   object: 'extensions.chat.completion.chunk',
   choices: [
@@ -247,7 +247,7 @@ const response2 = {
 
 const noContentResponse = {
   id: 'cb010365-18d7-41a8-aef6-8c68f9418bb7',
-  model: 'gpt-4',
+  model: 'gpt-4o',
   created: 1728388001,
   object: 'extensions.chat.completion.chunk',
   choices: [
@@ -269,7 +269,7 @@ const noContentResponse = {
 
 const response3 = {
   id: 'cb010365-18d7-41a8-aef6-8c68f9418bb7',
-  model: 'gpt-4',
+  model: 'gpt-4o',
   created: 1728388001,
   object: 'extensions.chat.completion.chunk',
   choices: [
@@ -295,7 +295,7 @@ const response3 = {
 
 const addToExistResponse = {
   id: 'cb010365-18d7-41a8-aef6-8c68f9418bb7',
-  model: 'gpt-4',
+  model: 'gpt-4o',
   created: 1728388001,
   object: 'extensions.chat.completion.chunk',
   choices: [
