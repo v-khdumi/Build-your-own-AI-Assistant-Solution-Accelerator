@@ -40,7 +40,7 @@ class ChatWithDataPlugin:
         client = openai.AzureOpenAI(
             azure_endpoint=endpoint,
             api_key=api_key,
-            api_version="2023-09-01-preview"
+            api_version="2024-08-06"
         )
         deployment = os.environ.get("AZURE_OPEN_AI_DEPLOYMENT_MODEL")
         try:
